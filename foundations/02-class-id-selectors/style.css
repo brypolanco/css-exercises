@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(245, 94, 152);
+    font-family: Verdana, sans-serif;
+}
+
+#blueID{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.odd.large{
+    font-size: 24px;
+}
+
+#greenID{
+    background-color: rgb(129, 255, 129);
+    font-size: 24px;
+    font-weight: bold;
+}
