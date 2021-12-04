@@ -1,0 +1,13 @@
+.lclick{
+    background-color: black;
+    color: white;
+}
+
+.rclick{
+    background-color: yellow;
+}
+
+.lclick, .rclick{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
